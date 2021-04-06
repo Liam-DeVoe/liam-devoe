@@ -10,7 +10,7 @@ I'm the author of several libraries:
 
 * [circlecore](https://github.com/circleguard/circlecore), a utilities library for osu!
 * [circlevis](https://github.com/circleguard/circlevis), a (Py)Qt widget for visualizing osu! beatmaps and replays
-* [ossapi](https://github.com/circleguard/ossapi), an osu! api wrapper (supports api v2 as well)
+* [ossapi](https://github.com/circleguard/ossapi), an osu! api wrapper
 
 I maintain (but am not the original author of) a few more:
 
