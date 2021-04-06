@@ -1,16 +1,18 @@
-### Hi there 👋
+Hey there. I like writing helpful python libraries for people and putting them up on pypi. I also:
 
-<!--
-**tybug/tybug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* am the author of [circleguard](https://github.com/circleguard/circleguard), a cheat detection program for [osu!](https://osu.ppy.sh/home), a rhythm game
+* am a developer of [planetterp](https://planetterp.com/), a ratemyprofessor-esque website specific to the Univeristy of Maryland
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Libraries
+
+I'm the author of several libraries:
+
+* [circlecore](https://github.com/circleguard/circlecore), a utilities library for osu!
+* [circlevis](https://github.com/circleguard/circlevis), a (Py)Qt widget for visualizing osu! beatmaps and replays
+* [ossapi](https://github.com/circleguard/ossapi), an osu! api wrapper (supports api v2 as well)
+
+I maintain (but am not the original author of) a few more:
+
+* [slider](https://github.com/llllllllll/slider), an osu! beatmap parser and utils library
+* [osrparse](https://github.com/kszlim/osu-replay-parser), an osu! replay parser library
