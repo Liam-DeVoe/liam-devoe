@@ -1,7 +1,8 @@
 Hey there. I like writing helpful python libraries in my free time and putting them up on pypi. I also:
 
 * am the author of [circleguard](https://github.com/circleguard/circleguard), a cheat detection program for [osu!](https://osu.ppy.sh/home), a rhythm game
-* am a developer of [planetterp](https://planetterp.com/), a ratemyprofessor-esque website specific to the Univeristy of Maryland
+* develop [planetterp](https://planetterp.com/), a ratemyprofessor-esque website specific to the Univeristy of Maryland
+* develop [umdio](https://github/umdio/umdio), an api which consolidates many disparate sources (courses and sections, bus routes, maps of campus) of information about the University of Maryland into a single place
 
 
 #### Libraries
