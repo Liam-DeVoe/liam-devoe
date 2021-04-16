@@ -2,7 +2,7 @@ Hey there. I like writing helpful python libraries in my free time and putting t
 
 * am the author of [circleguard](https://github.com/circleguard/circleguard), a cheat detection program for [osu!](https://osu.ppy.sh/home), a rhythm game
 * develop [planetterp](https://planetterp.com/), a ratemyprofessor-esque website specific to the Univeristy of Maryland
-* develop [umdio](https://github.com/umdio/umdio), an api which consolidates many disparate sources (courses and sections, bus routes, maps of campus) of information about the University of Maryland into a single place
+* develop [umdio](https://github.com/umdio/umdio), an api for the University of Maryland which consolidates many disparate sources (courses and sections, bus routes, maps of campus) into a single place
 
 
 #### Libraries
