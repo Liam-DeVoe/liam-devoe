@@ -4,9 +4,6 @@ Hey there. I like writing helpful python libraries in my free time and putting t
 * develop [planetterp](https://planetterp.com/), a ratemyprofessor-esque website specific to the Univeristy of Maryland
 * develop [umdio](https://github.com/umdio/umdio), an api for the University of Maryland (courses, sections, professors, bus routes, maps of campus, etc)
 
-
-#### Libraries
-
 I'm the author of several libraries:
 
 * [circlecore](https://github.com/circleguard/circlecore), a utilities library for osu!
