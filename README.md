@@ -14,3 +14,5 @@ I maintain (but am not the original author of) a few more:
 
 * [slider](https://github.com/llllllllll/slider), an osu! beatmap parser and utils library
 * [osrparse](https://github.com/kszlim/osu-replay-parser), an osu! replay parser library
+
+I (rarely) blog about programming: https://tybug.github.io/
