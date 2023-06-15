@@ -3,7 +3,7 @@ Hey there. I like writing helpful python libraries in my free time and putting t
 * am the author of [circleguard](https://github.com/circleguard/circleguard), a replay analysis program for [osu!](https://osu.ppy.sh/home), a rhythm game
 * develop [planetterp](https://github.com/planetterp/planetterp), a ratemyprofessor-esque website for the Univeristy of Maryland
 * develop [umdio](https://github.com/umdio/umdio), an api for the University of Maryland
-* run [u/osureportbot](https://old.reddit.com/user/OsuReportBot) ([source](https://github.com/tybug/Osu-Reporter)), a bot which automates housekeeping tasks on [r/osureport](https://www.reddit.com/r/osureport)
+* run [u/osureportbot](https://old.reddit.com/user/OsuReportBot) ([source](https://github.com/tybug/Osu-Reporter)), which automates housekeeping tasks on [r/osureport](https://www.reddit.com/r/osureport)
 
 I'm the author of several libraries:
 
