@@ -1,4 +1,4 @@
-Hey there! I'm a researcher at Northeastern studying property-based testing. I've gotten quite heavily involved with developing [Hypothesis](https://github.com/hypothesisWorks/hypothesis/), a PBT library for python. I (occasionally) [blog about programming](https://tybug.github.io/).
+Hey there! I'm a researcher at Northeastern studying property-based testing. I've gotten pretty involved with developing [Hypothesis](https://github.com/hypothesisWorks/hypothesis/), a PBT library for python. I (occasionally) [blog about programming](https://tybug.github.io/).
 
 In my free time, I maintain a few libraries / applications:
 
