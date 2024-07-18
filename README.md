@@ -1,17 +1,17 @@
-Hey there! I'm a researcher at Northeastern studying property-based testing. I've gotten pretty involved with developing [Hypothesis](https://github.com/hypothesisWorks/hypothesis/), a PBT library for python. I (occasionally) [blog about programming](https://tybug.github.io/).
+Hey there! I'm a researcher at Northeastern studying property-based testing. I've gotten pretty involved with developing [Hypothesis](https://github.com/hypothesisWorks/hypothesis/), a PBT library for python. I (intermittently) [blog about programming](https://tybug.github.io/).
 
-In my free time, I maintain a few libraries / applications:
+I maintain a few small libraries:
 
-* [circleguard](https://github.com/circleguard/circleguard), a replay analysis program for [osu!](https://osu.ppy.sh/home), a rhythm game
-* [circlecore](https://github.com/circleguard/circlecore), a utilities library for osu!
-* [circlevis](https://github.com/circleguard/circlevis), a (Py)Qt widget for visualizing osu! beatmaps and replays
-* [ossapi](https://github.com/circleguard/ossapi), an osu! api wrapper
-* [snitchvis](https://github.com/tybug/snitchvis), to render videos of [snitch](https://civwiki.org/wiki/Snitch) events from [Civ](https://civwiki.org/wiki/Main_Page)-style minecraft servers
-* [slider](https://github.com/llllllllll/slider), an osu! beatmap parser and utils library
-* [osrparse](https://github.com/kszlim/osu-replay-parser), an osu! replay parser library
-* [umdio](https://github.com/umdio/umdio), an api for the University of Maryland
+* [circleguard](https://github.com/circleguard/circleguard)
+* [circlecore](https://github.com/circleguard/circlecore)
+* [circlevis](https://github.com/circleguard/circlevis)
+* [ossapi](https://github.com/circleguard/ossapi)
+* [snitchvis](https://github.com/tybug/snitchvis)
+* [slider](https://github.com/llllllllll/slider)
+* [osrparse](https://github.com/kszlim/osu-replay-parser)
 
-Previously, I:
-* developed [planetterp](https://github.com/planetterp/planetterp), a ratemyprofessor-esque website for the Univeristy of Maryland
+And have moved on from a few others:
+* [umdio](https://github.com/umdio/umdio)
+* [planetterp](https://github.com/planetterp/planetterp)
 
 
