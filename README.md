@@ -5,7 +5,6 @@ In my past life, I've written and/or maintained a few libraries. Most of them ar
 * [ossapi](https://github.com/circleguard/ossapi)
 * [circleguard](https://github.com/circleguard/circleguard)
 * [circlecore](https://github.com/circleguard/circlecore)
-* [circlevis](https://github.com/circleguard/circlevis)
 * [snitchvis](https://github.com/tybug/snitchvis)
 * [slider](https://github.com/llllllllll/slider)
 * [osrparse](https://github.com/kszlim/osu-replay-parser)
