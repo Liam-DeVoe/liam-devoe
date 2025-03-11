@@ -1,1 +1,1 @@
-Hey there! I maintain [Hypothesis](https://github.com/hypothesisWorks/hypothesis/) and work on [Hypofuzz], a coverage-guided fuzzer for Hypothesis tests. I spend a lot of time thinking about property-based testing and fuzzing.
+Hey there! I maintain [Hypothesis](https://github.com/hypothesisWorks/hypothesis/) and work on [Hypofuzz](https://github.com/zac-HD/hypofuzz), a coverage-guided fuzzer for Hypothesis tests. I spend a lot of time thinking about property-based testing and fuzzing.
