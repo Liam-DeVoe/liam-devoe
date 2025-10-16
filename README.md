@@ -1,1 +1,3 @@
 Hey there! I maintain [Hypothesis](https://github.com/hypothesisWorks/hypothesis/), and work on [HypoFuzz](https://github.com/zac-HD/hypofuzz), a coverage-guided fuzzer for Hypothesis tests. I spend a lot of time thinking about property-based testing and fuzzing. I've contracted at [METR](https://metr.org/) as a participant in their widely-cited [study on AI productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/), and at [Quansight](https://quansight.com/) to support thread-safety in [Hypothesis](https://github.com/hypothesisWorks/hypothesis/) ([see](https://hypothesis.works/articles/thread-safe/)).
+
+Recently, I co-authored [this NeurIPS workshop paper](https://arxiv.org/abs/2510.09907) with Anthropic.
