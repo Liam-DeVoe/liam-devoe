@@ -2,4 +2,4 @@ Hey there! I maintain [Hypothesis](https://github.com/hypothesisWorks/hypothesis
 
 In October 2025, I co-authored [this NeurIPS workshop paper](https://arxiv.org/abs/2510.09907) with Anthropic.
 
-As of December 2025, I'm at @antithesishq!
+As of December 2025, I'm at [Antithesis](https://antithesis.com/)!
