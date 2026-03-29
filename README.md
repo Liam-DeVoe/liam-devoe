@@ -1,4 +1,4 @@
-Hey there! I spend quite a lot of time working on property-based testing and fuzzing. While I'm an academic at heart, I focus on writing impactful software, which is why I left my PhD program at Northeastern with a Masters for industry.
+Hey there! I spend quite a lot of time working on property-based testing and fuzzing. While I'm an academic at heart, I focus on writing high-quality, impactful software, which is why I left my PhD program at Northeastern with a Masters for industry.
 
 I maintain [Hypothesis](https://github.com/hypothesisWorks/hypothesis/), Python's property-based testing library[^1]. Together with [Zac](https://zhd.dev/), I wrote [HypoFuzz](https://github.com/zac-HD/hypofuzz), a coverage-guided fuzzer for Hypothesis.
 
