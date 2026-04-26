@@ -11,6 +11,7 @@ As of December 2025, I'm at [Antithesis](https://antithesis.com/), where I co-au
 Other things I'm proud of:
 
 - [Making Hypothesis thread-safe](https://hypothesis.works/articles/thread-safe/)
+- [The Hypothesis Corpus](https://hypothesis.works/articles/hypothesis-corpus/)
 
 I don't use social media. Feel free to email me at `orionldevoe@gmail.com`.
 
