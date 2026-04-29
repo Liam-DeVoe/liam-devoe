@@ -2,7 +2,7 @@ Hi there! I work on tools to help write more powerful, legible, and ergonomic so
 
 I work at [Antithesis](https://antithesis.com) by day, where I co-created [Hegel](https://hegel.dev/), a universal property-based testing protocol to bring PBT to all developers.
 
-I also maintain [Hypothesis](https://github.com/hypothesisWorks/hypothesis/), Python's property-based testing library[^1]. In my time as a maintainer, I've done foundational work on Hypothesis, including [building a new core representation](https://github.com/HypothesisWorks/hypothesis/issues/3921#issuecomment-2823204378) and [making Hypothesis thread-safe](https://hypothesis.works/articles/thread-safe/).
+I also maintain [Hypothesis](https://github.com/hypothesisWorks/hypothesis/), Python's property-based testing library. In my time as a maintainer, I've done foundational work on Hypothesis, including [building a new core representation](https://github.com/HypothesisWorks/hypothesis/issues/3921#issuecomment-2823204378) and [making Hypothesis thread-safe](https://hypothesis.works/articles/thread-safe/).
 
 Together with [Zac](https://zhd.dev/), I co-founded [HypoFuzz](https://hypofuzz.com/), providing coverage-guided fuzzing of Hypothesis tests, autoscaling compute of those distributed fuzz workers, and [visual fuzzing observability data](https://hypofuzz.com/example-dashboard/).
 
