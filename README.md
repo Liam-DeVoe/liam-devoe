@@ -2,7 +2,7 @@ Hi there! I work on tools to write more powerful, legible, and ergonomic softwar
 
 I work at [Theorem](https://theorem.dev/), which I earnestly believe has a shot at formally verifying all software.
 
-At [Antithesis](https://antithesis.com), I co-created [Hegel](https://hegel.dev/), a universal property-based testing protocol to bring PBT to all developers.
+Previously, at [Antithesis](https://antithesis.com), I co-created [Hegel](https://hegel.dev/), a universal property-based testing protocol to bring PBT to all developers.
 
 I maintain [Hypothesis](https://github.com/hypothesisWorks/hypothesis/), Python's property-based testing library. In my time as a maintainer, I've done foundational work on Hypothesis, including [building a new core representation](https://github.com/HypothesisWorks/hypothesis/issues/3921#issuecomment-2823204378) and [making Hypothesis thread-safe](https://hypothesis.works/articles/thread-safe/).
 
