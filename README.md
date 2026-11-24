@@ -1,6 +1,6 @@
 Hi there! I work on tools to write more powerful, legible, and ergonomic software specifications, and therefore more correct software writ large.
 
-I work at [Theorem](https://theorem.dev/), which I earnestly believe has a shot at formally verifying all software.
+I work at [Theorem](https://theorem.dev/), where I earnestly believe we have a shot at formally verifying all software.
 
 Previously, at [Antithesis](https://antithesis.com), I co-created [Hegel](https://hegel.dev/), a universal property-based testing protocol to bring PBT to all developers.
 
